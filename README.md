@@ -23,7 +23,7 @@ A student-only marketplace where college students can buy, sell, rent, and excha
 
 ## Live Demo
 
-https://adityyapawar.github.io/campuskart/
+adityyapawar.github.io/campuskart/
 
 ## Author
 
